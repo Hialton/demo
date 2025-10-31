@@ -4,8 +4,3 @@ Good tośee you
 
 Same here
 
-<<<<<<< HEAD
-CHANGE 2
-=======
-Change 1
->>>>>>> d3f4e01a5aececcb48db148d71220eb54c907fa5
